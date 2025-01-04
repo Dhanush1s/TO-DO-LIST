@@ -195,6 +195,7 @@
         @media (max-width: 600px) {
             .container {
                 margin: 20px;
+                width: 200vw;
             }
 
             .tasks li {
